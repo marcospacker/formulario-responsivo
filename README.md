@@ -6,7 +6,9 @@
 #### objetivos:
 
 ✅ Site responsivo
+
 ✅ Campos obrigatorios
+
 ✅ Layout harmonico
 
 #### Pré-visualização
