@@ -1,4 +1,4 @@
-## projeto Formulario de cadastro baseado no google
+## projeto Formulario de cadastro baseado no outlook
 
 ### Tecnologias usadas no website:
 
