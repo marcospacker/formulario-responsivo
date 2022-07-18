@@ -1,4 +1,4 @@
-## Formulario de cadastro
+## Formulario de cadastro responsivo
 ### Tecnologias usadas no website:
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
